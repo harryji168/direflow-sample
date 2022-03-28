@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
+// :root{
+$font-face-roboto: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+$font-face-roboto-mono: 'Roboto Mono', monospace;
+$font-size-text: 1em;
+$font-size-code: 0.833em;
+$font-size-button: 0.833em;
+$font-size-heading-1: 2.074em;
+$font-size-heading-2: 1.728em;
+$font-size-heading-3: 1.44em;
+$font-size-heading-4: 1.2em;
+$font-size-heading-5: 1em;
+$font-size-heading-6: 1em;
+$font-size-subtitle: 0.833em;
+
+$font-line-height-text: 1.5;
+$font-line-height-text-small: 1.2;
+$font-line-height-heading: 1.2;
+$font-line-height-label: 1.2;
+$font-line-height-button: 1.2;
+
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
+
+$font-letter-spacing-compact: -2%;
+$font-letter-spacing-regular: 0;
+$font-letter-spacing-all-caps: 2%;
+
+$font-type-all-caps: uppercase;
+$font-type-link-active: underline;
+$font-type-inline-emphasis: italic;
+// }
+
+// /* SEMANTIC STYLES */
+// .roboto {
+//   font-family: var(--font-type-roboto);
+// }
+// .roboto-mono {
+//   font-family: var(--font-type-roboto-mono);
+// }
+
+// /* Global styles */
+
+// body {
+//   letter-spacing: var(--font-letter-spacing-regular);
+// }
+
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6 {
+//   font-family: var(--font-type-roboto);
+//   line-height: var(--font-line-height-heading);
+// }
+
+// h1 {
+//   font-size: var(--font-size-heading-1);
+//   font-weight: var(--font-weight-bold);
+// }
+// h2 {
+//   font-size: var(--font-size-heading-2);
+//   font-weight: var(--font-weight-bold);
+// }
+// h3 {
+//   font-size: var(--font-size-heading-3);
+//   font-weight: var(--font-weight-bold);
+// }
+// h4 {
+//   font-size: var(--font-size-heading-4);
+//   font-weight: var(--font-weight-medium);
+// }
+// h5 {
+//   font-size: var(--font-size-heading-5);
+//   font-weight: var(--font-weight-medium);
+//   letter-spacing: var(--font-letter-spacing-all-caps);
+//   text-transform: uppercase;
+// }
+// h6 {
+//   font-size: var(--font-size-heading-6);
+//   font-weight: var(--font-weight-medium);
+// }
+
+// p {
+//   line-height: var(--font-line-height-text);
+//   font-weight: var(--font-weight-normal);
+// }
